@@ -118,19 +118,19 @@
 
 **마이페이지**
 
-<img src="https://file.notion.so/f/s/4c368959-31b6-40db-9783-6dca09357600/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png?id=27dc5302-9cf6-47ce-9d74-f51c56cdde2a&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346285135&signature=18S1DWsqcl8AO341_WjY3-j76rZMGtxtOduS1A1A0yQ&downloadName=%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png" width=600 height=400>
+<img src="https://file.notion.so/f/s/4c368959-31b6-40db-9783-6dca09357600/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png?id=27dc5302-9cf6-47ce-9d74-f51c56cdde2a&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346285135&signature=18S1DWsqcl8AO341_WjY3-j76rZMGtxtOduS1A1A0yQ&downloadName=%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png" width=500 height=400>
 
 **네비게이션 바**
 
-<img src="https://file.notion.so/f/s/179b96ad-4542-4747-a421-ab8bc4b4ecff/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.19.png?id=f2a1ea65-5580-4221-823d-711b1705411e&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346290006&signature=cCLH77zOylNtK94fjbjkfU83LkJOLMld6P0-vezRAQU&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.19.png" width=900 height=200>
+<img src="https://file.notion.so/f/s/179b96ad-4542-4747-a421-ab8bc4b4ecff/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.19.png?id=f2a1ea65-5580-4221-823d-711b1705411e&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346290006&signature=cCLH77zOylNtK94fjbjkfU83LkJOLMld6P0-vezRAQU&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.19.png" width=500 height=100>
 
 
 
 **상품 상세 UI**
 
-<img src="https://file.notion.so/f/s/8e1224db-709b-47d5-b16d-5302c9c37b80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.32.png?id=a1b4f27b-bf71-414a-9905-74fd9942de7c&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346293354&signature=uSvU-5Z3hh93YQL1hEFYEzBBL5qEze1O4T2VtfkXfLc&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.32.png" width=700 height=400>
+<img src="https://file.notion.so/f/s/8e1224db-709b-47d5-b16d-5302c9c37b80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.32.png?id=a1b4f27b-bf71-414a-9905-74fd9942de7c&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346293354&signature=uSvU-5Z3hh93YQL1hEFYEzBBL5qEze1O4T2VtfkXfLc&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.32.png" width=500 height=300>
 
-<img src="https://file.notion.so/f/s/a2a7af79-4591-4904-8a6d-e4e58a35d734/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.43.png?id=b5b7b83c-4b01-4640-89e9-d51c876733cc&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346297900&signature=GRYWFIlLzapUsSswfAhHEEiZOD_UFMZFX--Lq5Tknwg&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.43.png" width=700 height=400>
+<img src="https://file.notion.so/f/s/a2a7af79-4591-4904-8a6d-e4e58a35d734/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.47.43.png?id=b5b7b83c-4b01-4640-89e9-d51c876733cc&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685346297900&signature=GRYWFIlLzapUsSswfAhHEEiZOD_UFMZFX--Lq5Tknwg&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.47.43.png" width=500 height=300>
 
 ## 😈 TroubleShooting
 
